@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-06-04T19:13:20Z",
-  "total_words": 1162,
+  "generated_at": "2026-06-04T19:53:21Z",
+  "total_words": 1202,
   "words": [
     {
       "id": "fff3c2b3-e637-4514-afbd-4b5516bb14b6",
@@ -420,6 +420,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "fad98c40-155f-4858-9f7f-06da1129e7a1",
+      "chakma_script": "ﾚ𑄠1ￕ𑄇/z𑄘ﾰ𑄢?𑄋{￞?ﾍￔﾽ/",
+      "romanized": "ﾚy1ￕK/zDﾰR?O{￞?ﾍￔﾽ/",
+      "english_meaning": "ﾬﾌBXﾣﾖ&]4￢ﾐﾹsﾯUￃ&ﾴ{ﾅ^ﾇ$Bﾅ￫ﾋen￁Tﾔ>ﾭﾠh￴ﾹ￻ﾇﾮ￀Yﾎvﾙ",
+      "pronunciation": "ﾚy1ￕK/zDﾰR?O{￞?ﾍￔﾽ/",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "fa906efb-a60e-4e4f-9d4c-27ba1f561f12",
       "chakma_script": "তাকে আসতে বল",
       "romanized": "তাকে আসতে বল",
@@ -580,11 +596,43 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "f83a9508-68cc-459d-864d-2a1237a14a9b",
+      "chakma_script": "ﾶﾺz𑄛𑄴𑄇]5",
+      "romanized": "ﾶﾺZPk]5",
+      "english_meaning": "ﾃ;￳ﾢￛ￻h#^￤ﾇ=￧5ￒﾡ￀ￏﾍﾽ￐ﾝﾋ￸ￃrﾹBbN￈0V]}ￆ￬ￇ.￤ﾧC￨￯ \\￲/￢ﾨb￷5�ﾻ￼￁KQﾄ-ﾧN6ￌￛkﾑKﾁﾮ&ﾯiﾽ<ￜ￑J!rﾩmPￏ^~#￥￮￥Zﾺl￹ﾺ'ﾯ￭ﾏﾕ￥ￋ￭ﾁZﾅﾇￒﾉt￞ﾎsￋﾖ￤ﾫﾵￓ￉ﾪ￥￤ￃￂ4ￖgￊ8￭wﾹ￼￉ z",
+      "pronunciation": "ﾶﾺZPk]5",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "f82a2f99-a8fd-48d0-ac58-7e2b4800b366",
       "chakma_script": "আমি আমার বাড়ির কাজ করতে পারিনি",
       "romanized": "আমি আমার বাড়ির কাজ করতে পারিনি",
       "english_meaning": "𑄟𑄪𑄭 𑄟𑄧 𑄇𑄮𑄟𑄴𑄃𑄮𑄠𑄢𑄴𑄇𑄳𑄦𑄴𑄚𑄨 𑄉𑄢𑄨 𑄚𑄧 𑄛𑄢𑄧𑄁",
       "pronunciation": "Pronoun Pronoun Adjective Noun Verb Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "f8133813-c50e-4ccf-b9c1-916a8cf91c75",
+      "chakma_script": "[𑄉￳ﾨﾒ￵ￋ𑄚ﾽﾝ\\xￛ`ﾍ𑄘￮𑄇￑𑄇ﾚ/ﾋ𑄛𑄴𑄟𑄴𑄘;ﾥ￰𑄃￉￢ￛﾝ￹ﾩ4ﾹ\tﾁ𑄇𑄅ﾮ!￳\\ﾂﾺﾡ𑄉4_ﾒ￶",
+      "romanized": "[E￳ﾨﾒ￵ￋNﾽﾝ\\xￛ`ﾍd￮k￑Kﾚ/ﾋpMD;ﾥ￰A￉￢ￛﾝ￹ﾩ4ﾹ\tﾁuiﾮ!￳\\ﾂﾺﾡE4_ﾒ￶",
+      "english_meaning": "ﾰﾊe9i]w￵<ﾃWAﾟIﾕzwﾟﾽﾥﾹb￀j0ﾊ,dﾘ.ER￪ￋￒ￭￥n*ﾾYRoￍe\tￗﾈ!sﾮ&ﾚr￦￢v￉ﾔ￬~C/￁n*x￀￶J6ﾾﾧ￦￯ﾩ￬w",
+      "pronunciation": "[E￳ﾨﾒ￵ￋNﾽﾝ\\xￛ`ﾍd￮k￑Kﾚ/ﾋpMD;ﾥ￰A￉￢ￛﾝ￹ﾩ4ﾹ\tﾁuiﾮ!￳\\ﾂﾺﾡE4_ﾒ￶",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -745,6 +793,22 @@
       "romanized": "কোনো জিনিসের কাজ বুঝালে",
       "english_meaning": "𑄇𑄮𑄚𑄮 𑄎𑄨𑄚𑄨𑄎𑄧𑄢𑄴 𑄇𑄟𑄴 𑄝𑄪𑄏𑄬𑄦𑄬",
       "pronunciation": "Pronoun Noun Noun Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "f59246c8-d2e3-451b-a2d2-a20b885dc2bc",
+      "chakma_script": "8￘￴￸ￒ",
+      "romanized": "8￘￴￸ￒ",
+      "english_meaning": "Qￛ￼ￋﾒp\"￳ﾎﾻY-w.^ￔﾠ-X￐ﾪGﾬﾠ<>ￖ￾HￆￜO\\ￋￍ￩ﾪ￭DC`ﾎ￳m$￱ﾶ￝rﾄﾦ￴￵ￃ2ﾠ{￧ﾚMￌ;￯￩￤ﾉ￈qﾈ\"4ﾱﾄ￠￢oﾵﾌﾲ-%5￈ﾬﾝ￼ￓￂ￤ﾫxￊI￑ﾗﾜ￶ￗpj￙auﾤ$￰￉q_ﾮￅ￭ﾦ￢ￔ%￟G2￳ﾅﾍ`￣kyZFﾻﾫ￮b<￝BUﾌBMﾉBvﾤﾴ",
+      "pronunciation": "8￘￴￸ￒ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -1284,6 +1348,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "ec7adf9e-970e-498d-ba2c-899f96a3f779",
+      "chakma_script": "ￛ𑄉￼",
+      "romanized": "ￛG￼",
+      "english_meaning": "ﾃ￲ﾙnﾑ,￶￼ￎﾇFﾜﾹﾚ￸ﾟﾤﾦ￸{un￭ﾮﾧJ ￑ﾜ￦~￦teyﾾb",
+      "pronunciation": "ￛG￼",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "ec6cf836-05ac-4afb-a977-1c1725e330a0",
       "chakma_script": "আমাদের কেউ যেন তাড়াতাড়ি মারা নাযায়।",
       "romanized": "আমাদের কেউ যেন তাড়াতাড়ি মারা নাযায়।",
@@ -1812,6 +1892,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "e4db3671-5f21-4769-bd34-63841f04ae4e",
+      "chakma_script": "ﾍￔ￲𑄝ﾪ￨￨�ￊfￓ\tﾛﾖ𑄟￑ﾠﾋxq6ﾾﾊ𑄃ﾁﾩ𑄛𑄴𑄚ﾣ}ﾃﾍﾈﾐ}ￋ^𑄥￞𑄦ﾼ𑄟ﾡ5￐￢",
+      "romanized": "ﾍￔ￲bﾪ￨￨�ￊFￓ\tﾛﾖm￑ﾠﾋxq6ﾾﾊaﾁﾩpnﾣ}ﾃﾍﾈﾐ}ￋ^s￞hﾼmﾡ5￐￢",
+      "english_meaning": "ﾺﾂﾤu￱n￱ﾆﾞ￥ﾻ￈ﾾjcuFﾂﾉￃLjﾔﾑkj;Tqￒﾖﾘ￟dﾾﾆﾮp￥5ￒ￠ￋ￻8ﾴ￤If￤￻ﾃﾚ￀ￜﾱﾢﾉﾙﾌ/ﾷﾅﾶPￂgﾁVﾋQ.￀.ﾧ￰￀ﾀￚ￹RKￛ7\"ﾷﾂￓﾰ]￧Ve_DﾌￔQ￙HXu5ﾣￂ *h%￿WﾌUﾂuOXWﾈￋ￷ﾀoﾪbﾖm^r< 7p>ﾯ￁O￁JￊﾖStDZﾖￏ2ﾷ￀ﾝoﾕ ￀﾿*",
+      "pronunciation": "ﾍￔ￲bﾪ￨￨�ￊFￓ\tﾛﾖm￑ﾠﾋxq6ﾾﾊaﾁﾩpnﾣ}ﾃﾍﾈﾐ}ￋ^s￞hﾼmﾡ5￐￢",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "e4c09531-5c31-42a4-8714-901eaa55847f",
       "chakma_script": "আপনি কাজটি করে দেন",
       "romanized": "আপনি কাজটি করে দেন",
@@ -1833,6 +1929,22 @@
       "romanized": "ফ্যানটি চালিয়ে দাও",
       "english_meaning": "𑄜𑄬𑄚𑄚𑄴 𑄝𑄎𑄬𑄘𑄬",
       "pronunciation": "Noun Verb Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "e3f77437-1e72-4ee5-9dfe-be47883ecf6b",
+      "chakma_script": "fￖ￼￉￞￲ￍￕ𑄢@}ﾆﾂ ;𑄚",
+      "romanized": "Fￖ￼￉￞￲ￍￕR@}ﾆﾂ ;n",
+      "english_meaning": "3￰￲￶￡ﾺ=f￣OCﾎ￑=^Y\"g47",
+      "pronunciation": "Fￖ￼￉￞￲ￍￕR@}ﾆﾂ ;n",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -3220,6 +3332,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "d12a62b0-681d-48ac-8f51-d51b842d7f2c",
+      "chakma_script": "3𑄉%￲ￜﾲ@ﾂﾂ𑄉𑄴𑄇ﾎ𑄛ﾉ𑄢﾿x𑄋ﾼﾸ𑄚￡￼ￔ[𑄋￹￺𑄉ﾰ5ﾍ!𑄤𑄅𑄟￳>𑄅￤�ﾘﾽq𑄃{ﾷﾡﾛ𑄖𑄴𑄛x9<f.2ﾾﾏﾊ𑄠￾%￲\"=ﾼﾜﾳￇ ﾡￒ￱𑄛￿ﾵ𑄘𑄴𑄣ﾗ￡ﾅￗ𑄋vﾺ￺$ﾚﾲﾣￗﾄ𑄠ﾎﾶﾺ𑄝￲c?ￇﾫ>\\ￆ￉ﾬￔ𑄃￩ﾀ;𑄤~￯𑄖/﾿ﾜ𑄅𑄝!1𑄛𑄴𑄟+ 𑄃ﾽﾈￋ￙ﾴ<￶ﾸ𑄉￨ﾑﾒ?￩𑄥￠!𑄅￰q￾`￈ￕ𑄉 𑄤ﾝﾢ^ￜ%𑄉𑄖￮𑄇_𑄝?ￂﾕ1,￝𑄤?ﾩ=𑄟￬￮ﾃﾰﾗ{𑄘ﾋﾊﾳ￣ﾟ𑄇!ﾲ~ￄ=𑄛ﾼ𑄠ﾹ'ￖ￈￭#ﾢz￐ﾬ￸}𑄅￸ﾕ?ￂ ￚ￯&ￒﾧ￧ￆￎﾞﾲ𑄖ﾇ𑄠;ﾼﾸ𑄢𑄋ￕ1ￚ x [ￃﾸ/ﾳﾻ𑄚￯𑄖𑄉x",
+      "romanized": "3e%￲ￜﾲ@ﾂﾂgkﾎpﾉR﾿XoﾼﾸN￡￼ￔ[O￹￺Eﾰ5ﾍ!wIm￳>I￤�ﾘﾽqa{ﾷﾡﾛTpx9<f.2ﾾﾏﾊy￾%￲\"=ﾼﾜﾳￇ ﾡￒ￱P￿ﾵDLﾗ￡ﾅￗoVﾺ￺$ﾚﾲﾣￗﾄYﾎﾶﾺb￲C?ￇﾫ>\\ￆ￉ﾬￔA￩ﾀ;w~￯t/﾿ﾜib!1PM+ Aﾽﾈￋ￙ﾴ<￶ﾸG￨ﾑﾒ?￩s￠!I￰Q￾`￈ￕG wﾝﾢ^ￜ%ET￮K_b?ￂﾕ1,￝w?ﾩ=M￬￮ﾃﾰﾗ{dﾋﾊﾳ￣ﾟk!ﾲ~ￄ=pﾼyﾹ'ￖ￈￭#ﾢz￐ﾬ￸}I￸ﾕ?ￂ ￚ￯&ￒﾧ￧ￆￎﾞﾲTﾇY;ﾼﾸROￕ1ￚ x [ￃﾸ/ﾳﾻn￯tEX",
+      "english_meaning": "w",
+      "pronunciation": "3e%￲ￜﾲ@ﾂﾂgkﾎpﾉR﾿XoﾼﾸN￡￼ￔ[O￹￺Eﾰ5ﾍ!wIm￳>I￤�ﾘﾽqa{ﾷﾡﾛTpx9<f.2ﾾﾏﾊy￾%￲\"=ﾼﾜﾳￇ ﾡￒ￱P￿ﾵDLﾗ￡ﾅￗoVﾺ￺$ﾚﾲﾣￗﾄYﾎﾶﾺb￲C?ￇﾫ>\\ￆ￉ﾬￔA￩ﾀ;w~￯t/﾿ﾜib!1PM+ Aﾽﾈￋ￙ﾴ<￶ﾸG￨ﾑﾒ?￩s￠!I￰Q￾`￈ￕG wﾝﾢ^ￜ%ET￮K_b?ￂﾕ1,￝w?ﾩ=M￬￮ﾃﾰﾗ{dﾋﾊﾳ￣ﾟk!ﾲ~ￄ=pﾼyﾹ'ￖ￈￭#ﾢz￐ﾬ￸}I￸ﾕ?ￂ ￚ￯&ￒﾧ￧ￆￎﾞﾲTﾇY;ﾼﾸROￕ1ￚ x [ￃﾸ/ﾳﾻn￯tEX",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "d108cb67-79c1-478d-9e54-fda436f8d4b5",
       "chakma_script": "তাড়াতাড়ি এখানে এসো",
       "romanized": "তাড়াতাড়ি এখানে এসো",
@@ -3417,6 +3545,22 @@
       "romanized": "তারা মাছ ধরছে",
       "english_meaning": "𑄖𑄢𑄳𑄦 𑄟𑄍𑄴 𑄙𑄧𑄢𑄧𑄘𑄧𑄚𑄴",
       "pronunciation": "Pronoun Noun Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "cf9772eb-81ec-41af-b6e1-d355312f2505",
+      "chakma_script": "ﾍ￶￹𑄟ￏ$￥zﾜ￭ﾜvﾾ�￲￤",
+      "romanized": "ﾍ￶￹mￏ$￥zﾜ￭ﾜvﾾ�￲￤",
+      "english_meaning": "ﾠ.K#ﾄNJ`ﾄﾧ3:￣Cﾭ;cﾌr$ﾾMﾛ￶",
+      "pronunciation": "ﾍ￶￹mￏ$￥zﾜ￭ﾜvﾾ�￲￤",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -3828,6 +3972,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "c9ac2a3b-62ff-4c41-9a18-2bb8e3e36230",
+      "chakma_script": "ﾡ𑄦￙ﾙ5ﾺﾑ𑄅𑄥x ﾇ𑄚v￿ﾨ￵`z%𑄖ﾀ~&ﾙￍ￾ﾊﾱﾱﾮ𑄃:￡𑄉ﾂ\t;ﾟ￉𑄟ￚ𑄦𑄴𑄥ﾣ𑄝ﾜￍ𑄛*q� ﾍﾶￜc￼￳vﾒￌﾵ￷ﾣ𑄟ﾪﾯￎqﾆ[￢𑄎𑄴𑄎ﾨﾯﾊ￩ﾀﾒ￵￑ﾕ𑄦𑄴𑄛𑄴𑄖ﾫￍﾑ𑄟ﾭ𑄝ﾁ𑄇￻ﾫﾖvﾳ𑄥ﾚ@ﾒﾓￆﾕ￳ﾒﾤ￸ﾐ￺ +ﾆﾹ0ﾄￒ￯𑄥𑄉ﾃ-ﾉﾲﾵ￷q^￉𑄎ﾕﾠￃﾤﾕﾝﾂ\\3#v𑄟﾿￷￶-5ￗ$ￚ￉ￅ-ﾎￎ￯𑄛ﾀﾋ�ﾀ}￥>￿￬ﾒ﾿𑄎-￩￮\\𑄇 9𑄉ﾤ𑄇ﾫￕￅﾱx@2ﾎ/𑄘ￎ𑄅ﾵ￣ﾕ<\"ￎ￯ﾆￊﾈ￢ﾁ",
+      "romanized": "ﾡH￙ﾙ5ﾺﾑIsx ﾇNv￿ﾨ￵`z%Tﾀ~&ﾙￍ￾ﾊﾱﾱﾮa:￡Eﾂ\t;ﾟ￉mￚhsﾣbﾜￍp*q� ﾍﾶￜC￼￳Vﾒￌﾵ￷ﾣMﾪﾯￎQﾆ[￢JJﾨﾯﾊ￩ﾀﾒ￵￑ﾕHpTﾫￍﾑmﾭbﾁu￻ﾫﾖVﾳSﾚ@ﾒﾓￆﾕ￳ﾒﾤ￸ﾐ￺ +ﾆﾹ0ﾄￒ￯SEﾃ-ﾉﾲﾵ￷Q^￉jﾕﾠￃﾤﾕﾝﾂ\\3#Vm﾿￷￶-5ￗ$ￚ￉ￅ-ﾎￎ￯pﾀﾋ�ﾀ}￥>￿￬ﾒ﾿J-￩￮\\u 9Gﾤkﾫￕￅﾱx@2ﾎ/Dￎiﾵ￣ﾕ<\"ￎ￯ﾆￊﾈ￢ﾁ",
+      "english_meaning": "�￶*￼ﾛﾒￋ￮>X￬F`[Pﾬ￯￯￉￲ﾕ￣@ﾊ￫ﾦ&￑ﾢr=ﾃC￡Zￄy￨ﾡB￝",
+      "pronunciation": "ﾡH￙ﾙ5ﾺﾑIsx ﾇNv￿ﾨ￵`z%Tﾀ~&ﾙￍ￾ﾊﾱﾱﾮa:￡Eﾂ\t;ﾟ￉mￚhsﾣbﾜￍp*q� ﾍﾶￜC￼￳Vﾒￌﾵ￷ﾣMﾪﾯￎQﾆ[￢JJﾨﾯﾊ￩ﾀﾒ￵￑ﾕHpTﾫￍﾑmﾭbﾁu￻ﾫﾖVﾳSﾚ@ﾒﾓￆﾕ￳ﾒﾤ￸ﾐ￺ +ﾆﾹ0ﾄￒ￯SEﾃ-ﾉﾲﾵ￷Q^￉jﾕﾠￃﾤﾕﾝﾂ\\3#Vm﾿￷￶-5ￗ$ￚ￉ￅ-ﾎￎ￯pﾀﾋ�ﾀ}￥>￿￬ﾒ﾿J-￩￮\\u 9Gﾤkﾫￕￅﾱx@2ﾎ/Dￎiﾵ￣ﾕ<\"ￎ￯ﾆￊﾈ￢ﾁ",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "c995afb3-3408-4e7a-8429-bb212593b6c8",
       "chakma_script": "মারামারি করানো",
       "romanized": "মারামারি করানো",
@@ -3977,6 +4137,22 @@
       "romanized": "সব ঠিক আছে",
       "english_meaning": "𑄝𑄬𑄇𑄴 𑄒𑄨𑄇𑄴 𑄃𑄉𑄬",
       "pronunciation": "Pronoun Adjective Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "c80a3519-33b5-4e6d-9e9c-0c614f116e17",
+      "chakma_script": "￸￐7￷𑄋ￍﾙ￨﾿ￊ~ﾥ￶𑄎𑄃_ￎvﾞ￫𑄘ﾘ𑄢ﾗￃﾕ￲𑄃x𑄣ﾴﾛﾈ𑄃𑄠ﾻ+ￏ:ﾘ￤𑄣ﾠￛ%𑄖ￋ￰￐𑄇￟𑄟9￟",
+      "romanized": "￸￐7￷Oￍﾙ￨﾿ￊ~ﾥ￶jA_ￎVﾞ￫DﾘRﾗￃﾕ￲AxLﾴﾛﾈaYﾻ+ￏ:ﾘ￤Lﾠￛ%tￋ￰￐K￟m9￟",
+      "english_meaning": "￙Ys￪ﾵ￞o~<qﾩvﾎﾱ2Z Wﾐu￳ﾙaﾓﾎa,+ﾁ￤ﾉﾗﾴ?￶ﾔﾌpﾣﾐ`dﾄ￹#ﾷFﾥo￦U ￚE￫ﾏYﾝf￡ￜﾵￖ￫ﾐﾩd ￞c￥jWEￅￓ￡]ﾱﾵﾦ￯ﾈﾌ2'ￜqiNﾞ￫￲ﾙﾊ￼￹msￗYk￞$YFￕkZqￖ￝ￆ6ﾳG",
+      "pronunciation": "￸￐7￷Oￍﾙ￨﾿ￊ~ﾥ￶jA_ￎVﾞ￫DﾘRﾗￃﾕ￲AxLﾴﾛﾈaYﾻ+ￏ:ﾘ￤Lﾠￛ%tￋ￰￐K￟m9￟",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -4201,6 +4377,22 @@
       "romanized": "সে খায়তে খায়তে চলে গেল",
       "english_meaning": "𑄖𑄬 𑄦𑄘𑄬 𑄦𑄘𑄬 𑄬𑄠𑄬",
       "pronunciation": "Pronoun Verb Verb Verb Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "c44dd16a-b44b-44e8-a25f-1ed66e84ac3b",
+      "chakma_script": "￴𑄛:ﾪￇ￩ﾘ￦ﾔￏﾇﾃ@￬zￎￃ￑:.￯￴f￸3ﾙ[𑄣.ﾇ&￮!]ﾠ𑄇5￻^￤0￟𑄇� ￦ ￳",
+      "romanized": "￴p:ﾪￇ￩ﾘ￦ﾔￏﾇﾃ@￬zￎￃ￑:.￯￴F￸3ﾙ[l.ﾇ&￮!]ﾠu5￻^￤0￟U� ￦ ￳",
+      "english_meaning": "Iﾽd<￀ﾞ￱-0r/-\"ﾮﾔ￞ﾈￖ",
+      "pronunciation": "￴p:ﾪￇ￩ﾘ￦ﾔￏﾇﾃ@￬zￎￃ￑:.￯￴F￸3ﾙ[l.ﾇ&￮!]ﾠu5￻^￤0￟U� ￦ ￳",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -4788,6 +4980,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "bd20e7f2-2a91-4d48-aebd-3fd7b6e382ed",
+      "chakma_script": "𑄖vﾨ𑄦6ﾖ￤𑄉ﾐﾰ￢{ﾰ/6ￖﾂ￵=￣ﾈﾀ𑄋~ﾖﾠ￈𑄥𑄴𑄝￀z𑄉`𑄘 𑄛𑄴𑄟ﾼ￷?!ﾸ𑄅𑄉𑄴𑄤￻ￂￎ�ￆ𑄉￟ￎￊ_!ﾳ𑄝𑄴𑄚ﾸ￻ﾫ ﾂ￺6￩𑄃+￁￯￣]￡𑄦 }zￊￕ𑄢",
+      "romanized": "tvﾨH6ﾖ￤eﾐﾰ￢{ﾰ/6ￖﾂ￵=￣ﾈﾀO~ﾖﾠ￈sB￀Ze`d PMﾼ￷?!ﾸIgW￻ￂￎ�ￆG￟ￎￊ_!ﾳBnﾸ￻ﾫ ﾂ￺6￩A+￁￯￣]￡H }zￊￕr",
+      "english_meaning": "ﾼￗﾰkﾷﾌﾵIIM",
+      "pronunciation": "tvﾨH6ﾖ￤eﾐﾰ￢{ﾰ/6ￖﾂ￵=￣ﾈﾀO~ﾖﾠ￈sB￀Ze`d PMﾼ￷?!ﾸIgW￻ￂￎ�ￆG￟ￎￊ_!ﾳBnﾸ￻ﾫ ﾂ￺6￩A+￁￯￣]￡H }zￊￕr",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "bd073ff4-4939-428f-8e44-67148b82b18f",
       "chakma_script": "গত রাতে আমার জ্বর ছিল",
       "romanized": "গত রাতে আমার জ্বর ছিল",
@@ -5193,6 +5401,22 @@
       "romanized": "সময়ের থেকে আগে",
       "english_meaning": "𑄥𑄧𑄟𑄧𑄛𑄧𑄢𑄴 𑄇𑄬𑄚𑄧 𑄃𑄉𑄬",
       "pronunciation": "Noun Preposition Adverb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "b89c8821-1562-4389-9404-9dafc066d413",
+      "chakma_script": "ﾖﾊﾾ$ 𑄤ﾡ￲ￛ",
+      "romanized": "ﾖﾊﾾ$ Wﾡ￲ￛ",
+      "english_meaning": "ﾲxjt￫lﾅﾥﾂￍ￾ﾬﾒPￕ`Zﾱ=￙ﾒ=.Z￀￤ﾗ￀￢ﾢu1﾿HyﾆP￁ﾹﾗ[ﾦ￬ￎﾶ￙ﾌￊ g 1ﾈ",
+      "pronunciation": "ﾖﾊﾾ$ Wﾡ￲ￛ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -5641,6 +5865,22 @@
       "romanized": "কুকুর বিড়াল কামড়েছে",
       "english_meaning": "𑄇𑄪𑄉𑄪𑄢𑄴𑄝𑄮 𑄝𑄬𑄦𑄬𑄭𑄝𑄮𑄢𑄬 𑄇𑄟𑄬𑄢𑄬𑄦𑄮",
       "pronunciation": "Noun Noun Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "b3804eed-2a81-47ea-ac82-bf3e61425fc3",
+      "chakma_script": "𑄇ￂ𑄎fￃ￿𑄘ﾾ￿3𑄘ￛ𑄢𑄴𑄟@ￃ~ﾥ￨!ﾥx𑄖𑄎!",
+      "romanized": "UￂjFￃ￿Dﾾ￿3dￛrm@ￃ~ﾥ￨!ﾥXtJ!",
+      "english_meaning": "iﾗ;ﾑ oJﾅcﾩ eQVￜ>2K ￨ￏ ﾆﾤￛPw[W￞MH1￰ﾙ�dﾇ",
+      "pronunciation": "UￂjFￃ￿Dﾾ￿3dￛrm@ￃ~ﾥ￨!ﾥXtJ!",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -6148,6 +6388,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "abf9aa0f-dd98-4d61-899c-db212faa5bc2",
+      "chakma_script": "[3ﾁ𑄋ﾬﾗﾻ￹ￅﾀ𑄚7ￄ𑄘x￱￯3'￞𑄇𑄴𑄝ﾭￂﾢﾄﾷﾈ2f￵𑄇-=ￃ𑄛￦ﾽ𑄥￶ﾕ￝ￒ𑄋𑄤x𑄛￶ﾛﾌ𑄚ﾗￃzￇﾞﾸￅﾈ_ﾸ7ￖ[ￃﾅ￦^ﾞ￼ￖ𑄥𑄃$￟𑄟ﾆﾒ^𑄇ﾓ+x^'￣𑄢￙ﾋￓ>￝,ￜz𑄥￐𑄇ﾳﾵ￢￪ﾠ�'$] ￀ￇﾜ?𑄉 ￦￨",
+      "romanized": "[3ﾁOﾬﾗﾻ￹ￅﾀn7ￄdx￱￯3'￞KBﾭￂﾢﾄﾷﾈ2F￵U-=ￃP￦ﾽS￶ﾕ￝ￒowxp￶ﾛﾌnﾗￃZￇﾞﾸￅﾈ_ﾸ7ￖ[ￃﾅ￦^ﾞ￼ￖsa$￟mﾆﾒ^uﾓ+X^'￣R￙ﾋￓ>￝,ￜZs￐Kﾳﾵ￢￪ﾠ�'$] ￀ￇﾜ?g ￦￨",
+      "english_meaning": "ﾁﾧ￼u^~﾿ﾺ￁jﾾ￱nﾞﾤJﾽHﾘhM=ￓﾲ<~ﾔ iﾭ￤ﾷ￭7ﾆ3AP￥ﾺ￺ﾎﾯ￁ﾅUￆuￃGﾣ ﾬ4￷ﾎe￝`",
+      "pronunciation": "[3ﾁOﾬﾗﾻ￹ￅﾀn7ￄdx￱￯3'￞KBﾭￂﾢﾄﾷﾈ2F￵U-=ￃP￦ﾽS￶ﾕ￝ￒowxp￶ﾛﾌnﾗￃZￇﾞﾸￅﾈ_ﾸ7ￖ[ￃﾅ￦^ﾞ￼ￖsa$￟mﾆﾒ^uﾓ+X^'￣R￙ﾋￓ>￝,ￜZs￐Kﾳﾵ￢￪ﾠ�'$] ￀ￇﾜ?g ￦￨",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "abee253f-f84c-4dfb-9d5a-46c690d528bb",
       "chakma_script": "তাদের উপর কোন বিপদ হতে পারেনা।",
       "romanized": "তাদের উপর কোন বিপদ হতে পারেনা।",
@@ -6169,6 +6425,22 @@
       "romanized": "তারা গতকাল এসেছিল",
       "english_meaning": "𑄖𑄢 𑄉𑄬𑄦𑄬 𑄇𑄨𑄦𑄬𑅅 𑄃𑄬𑄥𑄴𑄮𑄚𑄴",
       "pronunciation": "Pronoun Noun Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "ab61e2ba-a579-4501-a89e-baf6d2d98d1e",
+      "chakma_script": "ﾨￛf𑄝6-ￇ𑄘￡cf￉𑄠￾c3=5𑄘𑄴𑄚￥ﾶ𑄎ﾴ￧𑄟𑄴𑄘&𑄉<ﾼ\"ﾧ𑄚￣𑄅ﾑￖￆ6$𑄉 ￱ￋﾶￄﾳf￱𑄇￲ﾒ𑄟￰𑄉￪ﾙ𑄉ﾧﾂﾎ𑄇𑄴𑄉6ﾹ `1&ﾴ𑄉ﾙﾨ￷ﾶﾑￛﾱ𑄣=<﾿𑄘ﾂz\\cﾓﾫ￙ﾦﾱ￭𑄥 9ﾠ￩ﾩﾍ𑄘𑄴𑄠￹[￼ﾆﾥ𑄇f2ﾣￖ>￥ﾲ𑄢￢￣￩ﾋ𑄟z-𑄥ﾑ𑄚𑄴𑄇￐￲￿ￛﾛ9￼ﾒ𑄝￀ￋ ﾙￃﾕ𑄛ﾯ𑄅𑄉￱vￊ𑄃5ﾭﾳ𑄖ￋ+ￇ",
+      "romanized": "ﾨￛfB6-ￇD￡Cf￉Y￾C3=5DN￥ﾶJﾴ￧Md&e<ﾼ\"ﾧn￣iﾑￖￆ6$G ￱ￋﾶￄﾳF￱u￲ﾒM￰g￪ﾙgﾧﾂﾎkg6ﾹ `1&ﾴGﾙﾨ￷ﾶﾑￛﾱL=<﾿dﾂZ\\Cﾓﾫ￙ﾦﾱ￭S 9ﾠ￩ﾩﾍDY￹[￼ﾆﾥUf2ﾣￖ>￥ﾲR￢￣￩ﾋmZ-sﾑNk￐￲￿ￛﾛ9￼ﾒB￀ￋ ﾙￃﾕpﾯIE￱vￊa5ﾭﾳTￋ+ￇ",
+      "english_meaning": "￬￟ﾰﾩ",
+      "pronunciation": "ﾨￛfB6-ￇD￡Cf￉Y￾C3=5DN￥ﾶJﾴ￧Md&e<ﾼ\"ﾧn￣iﾑￖￆ6$G ￱ￋﾶￄﾳF￱u￲ﾒM￰g￪ﾙgﾧﾂﾎkg6ﾹ `1&ﾴGﾙﾨ￷ﾶﾑￛﾱL=<﾿dﾂZ\\Cﾓﾫ￙ﾦﾱ￭S 9ﾠ￩ﾩﾍDY￹[￼ﾆﾥUf2ﾣￖ>￥ﾲR￢￣￩ﾋmZ-sﾑNk￐￲￿ￛﾛ9￼ﾒB￀ￋ ﾙￃﾕpﾯIE￱vￊa5ﾭﾳTￋ+ￇ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -6585,6 +6857,22 @@
       "romanized": "মোটামুটি ভালো যাচ্ছে।",
       "english_meaning": "𑄟𑄮𑄑𑄟𑄪𑄑𑄨 𑄉𑄧𑄟𑄴 𑄎𑄨𑄠𑄬",
       "pronunciation": "Adverb Adjective Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "a5969bdf-2ac8-4503-850c-85cbd4d132af",
+      "chakma_script": "ﾶￆﾷ-?ﾀﾯ",
+      "romanized": "ﾶￆﾷ-?ﾀﾯ",
+      "english_meaning": "R!ﾈﾨvￃﾇ m;Uﾳ[Mﾦ￠ﾢRﾘﾑﾀ9￀gￂg/ﾳﾫ￿￰QﾀiﾎﾡￊￇﾬR￵ﾇ\";￪ nￏ￫ﾇqGﾗh#ﾗ﾿#D￳Rﾭ ﾶﾱ<﾿xd1ﾡD/f￷ﾦﾲ￝￹ﾘﾕem￣￰ￇ^ﾍBf￈ﾐￊￏﾘﾄEKXﾛﾙ+ￖ",
+      "pronunciation": "ﾶￆﾷ-?ﾀﾯ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -9236,6 +9524,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "80f00ba9-94c0-4963-b7e9-47f08b30e06a",
+      "chakma_script": "ﾯ*ﾌ]￀ﾘￒvﾽﾑﾄ𑄎𑄅ﾳﾣ￯𑄎ￊ￉￶ￋﾕ￤ﾆ￼ﾷ￐ﾧ\\ﾊ￭ￌ&𑄖𑄋𑄦fﾫ￷￢ￌ89.ﾸ￾𑄠ﾼￕﾄ￙zￍ￷ﾊﾍﾑ￼￟ﾘﾍﾴ￯[￧,𑄋:1ￍﾂﾣￄﾅ4c1q..ﾖ  7ﾖ_ﾭ￝ﾴ￸ﾶﾾ]/ﾡz𑄤𑄚ﾍﾤ𑄝￶ﾵￇx￵z￹ￒﾮﾸvﾽￍ￴￻<ﾶￔ_",
+      "romanized": "ﾯ*ﾌ]￀ﾘￒVﾽﾑﾄJIﾳﾣ￯jￊ￉￶ￋﾕ￤ﾆ￼ﾷ￐ﾧ\\ﾊ￭ￌ&tOhFﾫ￷￢ￌ89.ﾸ￾Yﾼￕﾄ￙Zￍ￷ﾊﾍﾑ￼￟ﾘﾍﾴ￯[￧,o:1ￍﾂﾣￄﾅ4c1Q..ﾖ  7ﾖ_ﾭ￝ﾴ￸ﾶﾾ]/ﾡzwnﾍﾤb￶ﾵￇX￵z￹ￒﾮﾸVﾽￍ￴￻<ﾶￔ_",
+      "english_meaning": "/￩eVAﾆﾪGmH4￩",
+      "pronunciation": "ﾯ*ﾌ]￀ﾘￒVﾽﾑﾄJIﾳﾣ￯jￊ￉￶ￋﾕ￤ﾆ￼ﾷ￐ﾧ\\ﾊ￭ￌ&tOhFﾫ￷￢ￌ89.ﾸ￾Yﾼￕﾄ￙Zￍ￷ﾊﾍﾑ￼￟ﾘﾍﾴ￯[￧,o:1ￍﾂﾣￄﾅ4c1Q..ﾖ  7ﾖ_ﾭ￝ﾴ￸ﾶﾾ]/ﾡzwnﾍﾤb￶ﾵￇX￵z￹ￒﾮﾸVﾽￍ￴￻<ﾶￔ_",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "80641364-52cd-4649-8a8f-33a81e388431",
       "chakma_script": "কোনো জিনিস কোনো কিছুর মধ্যে বুঝালে",
       "romanized": "কোনো জিনিস কোনো কিছুর মধ্যে বুঝালে",
@@ -9273,6 +9577,22 @@
       "romanized": "আপনি গত সপ্তাহে কোথায় ছিলেন?",
       "english_meaning": "𑄉𑄬𑄦𑄬 𑄃𑄬𑄇𑄴 𑄥𑄛𑄴𑄖 𑄥𑄧𑄁 𑄇𑄪𑄘𑄪 𑄎𑄬𑄠𑄮𑄥𑄴",
       "pronunciation": "Pronoun Adjective Noun Adverb Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "7fd8c986-ddc1-454d-b6e1-360f58fed696",
+      "chakma_script": "￞￻𑄎￵zﾼ ￡ￚ﾿ￓfￜ8𑄎￸𑄎ﾣ￘%ￔ￮ￍﾏ￾`ﾥ𑄤\\￠𑄚ﾉ𑄇𑄴𑄎q",
+      "romanized": "￞￻j￵zﾼ ￡ￚ﾿ￓfￜ8J￸jﾣ￘%ￔ￮ￍﾏ￾`ﾥW\\￠NﾉKJQ",
+      "english_meaning": "ﾣﾳﾟﾗ￞Dwﾬﾋﾀﾂﾴﾊﾘ ￏﾅ￫ﾳￆ￹ﾏﾗpVﾦ\\c/P28￱￲￵",
+      "pronunciation": "￞￻j￵zﾼ ￡ￚ﾿ￓfￜ8J￸jﾣ￘%ￔ￮ￍﾏ￾`ﾥW\\￠NﾉKJQ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -9449,6 +9769,22 @@
       "romanized": "তুমি কিবল?",
       "english_meaning": "𑄖𑄪𑄭 𑄇𑄨 𑄇𑄧𑄥𑄴𑅃",
       "pronunciation": "Pronoun Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "7d99ade4-2024-46fa-bfbb-37f80b70fe62",
+      "chakma_script": "ﾶﾄ𑄋𑄣ﾳﾯﾢ{ﾷﾇﾅ𑄝￢8ﾎ￰",
+      "romanized": "ﾶﾄOLﾳﾯﾢ{ﾷﾇﾅb￢8ﾎ￰",
+      "english_meaning": ",ﾄ,￶￟",
+      "pronunciation": "ﾶﾄOLﾳﾯﾢ{ﾷﾇﾅb￢8ﾎ￰",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -10516,6 +10852,38 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "6e361639-07f5-4d73-9dbc-32428221dd82",
+      "chakma_script": "𑄘￥!ﾘ- ￁ﾸ𑄇'~𑄚ﾴﾥﾼ:𑄋ﾹ𑄢c￟ﾔ#𑄛@vﾼ",
+      "romanized": "D￥!ﾘ- ￁ﾸU'~Nﾴﾥﾼ:oﾹRC￟ﾔ#P@vﾼ",
+      "english_meaning": "RQ+",
+      "pronunciation": "D￥!ﾘ- ￁ﾸU'~Nﾴﾥﾼ:oﾹRC￟ﾔ#P@vﾼ",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "6e1f544f-f155-4298-90c7-94875506ff74",
+      "chakma_script": "^𑄟ﾏ￑ￇ𑄋ￖﾈ𑄥ￚﾅ𑄉ﾨ𑄉𑄴𑄖ﾺ ￣#𑄎/￳𑄃",
+      "romanized": "^Mﾏ￑ￇOￖﾈsￚﾅEﾨGtﾺ ￣#J/￳a",
+      "english_meaning": "ﾩ￴<U￧￟￁$ﾗﾨ￾￞Y￪ﾋ7rﾓ￹7ﾼtﾌﾚ",
+      "pronunciation": "^Mﾏ￑ￇOￖﾈsￚﾅEﾨGtﾺ ￣#J/￳a",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "6de5bb6c-71c0-4c86-99ff-19b750f88077",
       "chakma_script": "আমি কি তোমাকে বলিনি?",
       "romanized": "আমি কি তোমাকে বলিনি?",
@@ -11081,6 +11449,22 @@
       "romanized": "না  তখন আমার ঘুম আসেনি",
       "english_meaning": "𑄚 𑄟𑄪𑄭 𑄥𑄬𑄇𑄴𑄬 𑄊𑄪𑄟𑄴 𑄚𑄧 𑄎𑄋𑄧𑄢𑄴",
       "pronunciation": "Adverb Adverb Pronoun Noun Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "668f1c0e-5999-4974-af41-e1cb7fb4ff9b",
+      "chakma_script": "z}ﾲﾫ𑄥ﾖ#ￏￅ𑄋ﾤ𑄢𑄉ﾙ\t￼￹𑄖𑄴𑄤𑄴𑄥ﾻ𑄚ﾎ𑄛ﾋﾕ",
+      "romanized": "Z}ﾲﾫsﾖ#ￏￅOﾤReﾙ\t￼￹tWsﾻnﾎpﾋﾕ",
+      "english_meaning": "￯-ﾉ 6ﾅwL.￧￙￬ﾲ￩wﾩﾱ}~￟￿QﾖﾥﾚﾛJﾹﾃF9ﾋS￱Fb9C￐￹VZgﾴﾋQ￥ﾉRﾲ\"^uￆﾁ￨\tﾬﾴeￜX1ￗￋaU￠L4￑ﾯ￰ﾙDﾢj￷VtOￅk￲ￏ￣ﾡk￫￘gﾈﾃs0ﾽB&ﾶ￪Pﾇ￝￝j",
+      "pronunciation": "Z}ﾲﾫsﾖ#ￏￅOﾤReﾙ\t￼￹tWsﾻnﾎpﾋﾕ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -12212,6 +12596,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "576d7ab4-a5c8-4346-b77c-b6009f7481c0",
+      "chakma_script": "￿.9ﾥ𑄇𑄴𑄛ﾎ𑄇ﾞ\\￡ￏ]𑄝xc 𑄖`￲{￝;𑄃$ￃ-ﾣ]c￣2]ﾥ3ﾣ￲￼ﾅ𑄟ￊ𑄖￭￸cﾝ#ﾵￎ𑄇qﾛ_𑄎]ￂ𑄚f￴ﾢﾵ]￣ﾉ{ﾨ￈_ￊz&￭￀3ﾰ",
+      "romanized": "￿.9ﾥKpﾎUﾞ\\￡ￏ]BXC t`￲{￝;a$ￃ-ﾣ]C￣2]ﾥ3ﾣ￲￼ﾅMￊt￭￸Cﾝ#ﾵￎkQﾛ_J]ￂnf￴ﾢﾵ]￣ﾉ{ﾨ￈_ￊz&￭￀3ﾰ",
+      "english_meaning": "ﾯN￿�ￜﾄNHￔ￣Sￒﾞﾞ￣ﾯ￠Tﾛ$ￔﾥﾒﾀ\tﾵ￻fﾈﾛﾔￒￊIﾣ￣￿6ￖￇￕ￼e￳Z￥`ﾽﾺ￉<6!ￚu6<ￚￛﾌ￤cceﾹk￮￸ﾊgjt￪ﾋￃ;@ﾸtﾩ￱:%9ￍﾃﾎ￁￪ﾱﾓ￟Zpﾳ<ﾟ￠ﾑﾕﾭ￙hﾘﾙￖ￞5Kﾋ﾿￁R`0LￋﾊI￩V:ￎ3ug+IﾢW￵JￓﾇC1 h%sa4v￟￭ﾒﾙBﾧ",
+      "pronunciation": "￿.9ﾥKpﾎUﾞ\\￡ￏ]BXC t`￲{￝;a$ￃ-ﾣ]C￣2]ﾥ3ﾣ￲￼ﾅMￊt￭￸Cﾝ#ﾵￎkQﾛ_J]ￂnf￴ﾢﾵ]￣ﾉ{ﾨ￈_ￊz&￭￀3ﾰ",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "57008a5d-8f36-4f9e-b730-b19add4d873d",
       "chakma_script": "কোনো পেশা বুঝালে",
       "romanized": "কোনো পেশা বুঝালে",
@@ -12873,6 +13273,22 @@
       "romanized": "তোমার আজকের দিনটা কেমন গেলো?",
       "english_meaning": "𑄖𑄧𑄢𑄴 𑄃𑄨𑄌𑄨 𑄘𑄨𑄚𑄴𑄚𑄮  𑄦𑄬𑄎𑄚𑄴 𑄎𑄨𑄟𑄬?",
       "pronunciation": "Pronoun Adjective Noun Adjective Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "4e3a7344-88db-4152-8b40-d41310b4323a",
+      "chakma_script": "ￛ@ cfￎz,￝ￔ𑄋￻ﾬￚ\"ﾊ ￉ￒￋ𑄥ﾺￅﾂﾐ𑄎ﾛ𑄅￀￰ﾥﾅ￲& 𑄇>ﾦ5￞￼ﾇ&￯ￋ￩￼𑄢ﾟzￜ5ﾔzￎￛ𑄇 ﾨﾜ￟%ﾅﾍ﾿￁𑄟ﾳv3￟&𑄣𑄴𑄟𑄇ￂ￫￳￞𑄠￿@ﾍﾏﾏ￑q,ﾥ𑄟~￱￙$ﾐ𑄚𑄴𑄛ￄￗﾜvﾓ￣ﾬ𑄖z𑄤𑄋￨𑄎x￿￾  𑄠$ﾆﾇﾯￔ￬𑄥 𑄖ﾕ�￐￷𑄣>ￒ0ￎﾏﾐ𑄤:￉ﾌ6x�￳𑄎ﾟﾵ￤﾿ￆ",
+      "romanized": "ￛ@ CfￎZ,￝ￔO￻ﾬￚ\"ﾊ ￉ￒￋSﾺￅﾂﾐjﾛI￀￰ﾥﾅ￲& k>ﾦ5￞￼ﾇ&￯ￋ￩￼rﾟZￜ5ﾔzￎￛk ﾨﾜ￟%ﾅﾍ﾿￁MﾳV3￟&lmUￂ￫￳￞y￿@ﾍﾏﾏ￑Q,ﾥm~￱￙$ﾐNpￄￗﾜVﾓ￣ﾬtzwo￨jX￿￾  Y$ﾆﾇﾯￔ￬s tﾕ�￐￷l>ￒ0ￎﾏﾐw:￉ﾌ6x�￳Jﾟﾵ￤﾿ￆ",
+      "english_meaning": "Iﾵﾠ0ﾏﾋX\tﾸﾕￕﾷO`65￞￾@,ﾀ\\ﾽﾣenￋﾚ￿ￖ￐￿ﾜￊﾣm!gTﾧ￟",
+      "pronunciation": "ￛ@ CfￎZ,￝ￔO￻ﾬￚ\"ﾊ ￉ￒￋSﾺￅﾂﾐjﾛI￀￰ﾥﾅ￲& k>ﾦ5￞￼ﾇ&￯ￋ￩￼rﾟZￜ5ﾔzￎￛk ﾨﾜ￟%ﾅﾍ﾿￁MﾳV3￟&lmUￂ￫￳￞y￿@ﾍﾏﾏ￑Q,ﾥm~￱￙$ﾐNpￄￗﾜVﾓ￣ﾬtzwo￨jX￿￾  Y$ﾆﾇﾯￔ￬s tﾕ�￐￷l>ￒ0ￎﾏﾐw:￉ﾌ6x�￳Jﾟﾵ￤﾿ￆ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -13956,6 +14372,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "3f2d7798-d40c-4d32-a3fb-87fd89302434",
+      "chakma_script": "ￂ𑄝ﾄ￤￘ﾘ￬𑄉`ﾠ{ﾧﾶ𑄢ﾻﾐﾚ𑄖￝ﾳ￱ﾡﾦﾶￄﾚ￩ﾐﾟ5￲ﾉ𑄎ￏq﾿￉ￒ￺6￰ￒ ^𑄤￝￢?ﾬ￈zf𑄅ﾏ𑄉ﾘﾱ￨𑄚#ￋ￣￼𑄝}ﾔﾋ𑄤\t𑄟ﾓ￩@𑄎;ﾑ𑄢𑄴𑄤ﾇc￧ﾕﾁ𑄦ﾠ𑄅𑄣,x%�￩ￚ￥￿ 𑄅 ￈𑄦c",
+      "romanized": "ￂBﾄ￤￘ﾘ￬g`ﾠ{ﾧﾶrﾻﾐﾚT￝ﾳ￱ﾡﾦﾶￄﾚ￩ﾐﾟ5￲ﾉjￏq﾿￉ￒ￺6￰ￒ ^W￝￢?ﾬ￈ZfIﾏgﾘﾱ￨N#ￋ￣￼B}ﾔﾋw\tMﾓ￩@j;ﾑRwﾇC￧ﾕﾁhﾠil,X%�￩ￚ￥￿ I ￈Hc",
+      "english_meaning": "ﾐ﾿ ﾾ￲￙￪￴::ﾤ￰qﾣﾌ}sﾻ￠ￃm￹\"ﾡﾦ$￾m\\￢￶￧￝ﾁﾞT#\"%ﾶ>￸B=ﾳZﾔ￐ﾛﾸ/#ﾙ5=ﾭTﾔﾹﾈﾢOﾏﾲﾕ}lﾼﾮﾯﾌ￡{,pXﾍ\"ﾨ￹ﾐﾆ￰ﾢ*R'￀￹ﾗ4ﾷﾵ￟ﾤﾜ/￾ﾜﾈￊￃe\tQﾵﾭ!]E;ﾶkﾤ^#",
+      "pronunciation": "ￂBﾄ￤￘ﾘ￬g`ﾠ{ﾧﾶrﾻﾐﾚT￝ﾳ￱ﾡﾦﾶￄﾚ￩ﾐﾟ5￲ﾉjￏq﾿￉ￒ￺6￰ￒ ^W￝￢?ﾬ￈ZfIﾏgﾘﾱ￨N#ￋ￣￼B}ﾔﾋw\tMﾓ￩@j;ﾑRwﾇC￧ﾕﾁhﾠil,X%�￩ￚ￥￿ I ￈Hc",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "3e70a983-9f95-446a-b899-0dabacfe06cf",
       "chakma_script": "তুমি খাবার খেয়েছো?",
       "romanized": "তুমি খাবার খেয়েছো?",
@@ -14132,6 +14564,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "3c834813-9e2b-4ab2-898f-9401ffe2f678",
+      "chakma_script": "￙𑄦ﾃv/c!ￖﾰﾋ4𑄟ﾌﾆﾓ𑄉𑄇￿𑄣￥",
+      "romanized": "￙hﾃv/c!ￖﾰﾋ4mﾌﾆﾓek￿L￥",
+      "english_meaning": "￱￝ﾧaﾔX￼ﾢ+ﾵ￹ￄBﾒ￯l￰ﾚvﾬ.ￖ\t￲￶ﾝ￉ ￡￻$iU ￐ﾛￓs@￟ﾥ'/ﾈ￷<ﾧﾏ5ﾜￋﾂﾱ￡ﾠQ￈￤￙￙Rﾭ/TﾔﾑￖﾘJ￬<f￷￭￧ￄfﾓￎ￨ﾪ",
+      "pronunciation": "￙hﾃv/c!ￖﾰﾋ4mﾌﾆﾓek￿L￥",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "3c81e6ea-8dcf-41c7-a184-0944398b71a8",
       "chakma_script": "মাথা ঠান্ডা কর",
       "romanized": "মাথা ঠান্ডা কর",
@@ -14292,6 +14740,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "39684415-f90c-421b-8820-0f49a5f94a71",
+      "chakma_script": "ﾈ ﾬﾲﾥﾺ￯ￇz￿#+�𑄎ﾪ￫￧￣𑄇ﾌﾓﾨq𑄉𑄖_ﾛ𑄤6",
+      "romanized": "ﾈ ﾬﾲﾥﾺ￯ￇZ￿#+�jﾪ￫￧￣UﾌﾓﾨQeT_ﾛw6",
+      "english_meaning": "￴ﾏￇￂ￿WﾀￆSﾪﾑ￥￻7ﾤ<￵]ￃlB￻￷y",
+      "pronunciation": "ﾈ ﾬﾲﾥﾺ￯ￇZ￿#+�jﾪ￫￧￣UﾌﾓﾨQeT_ﾛw6",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "392ea219-9ee0-413e-9326-64009da356bb",
       "chakma_script": "আপনি কি আপনার বাড়ির কাজ করেছেন?",
       "romanized": "আপনি কি আপনার বাড়ির কাজ করেছেন?",
@@ -14409,6 +14873,22 @@
       "romanized": "তিনি পানি পান করছেন",
       "english_meaning": "𑄖𑄬 𑄛𑄚𑄩 𑄇𑅅 𑄢𑄴",
       "pronunciation": "Pronoun Noun Verb Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "376d9b7f-f443-4fff-a32e-722b392bdc9e",
+      "chakma_script": "￁ﾆￗ�ﾷﾴﾯ￰ﾞﾭￔ￭ﾣ𑄝<￪￣𑄖￤𑄖ﾴ^\\￴𑄖￮￡𑄚{ﾜ￀ￔ",
+      "romanized": "￁ﾆￗ�ﾷﾴﾯ￰ﾞﾭￔ￭ﾣb<￪￣T￤Tﾴ^\\￴T￮￡N{ﾜ￀ￔ",
+      "english_meaning": "ﾕ￣￹j@[￥ﾓﾔﾩ￣2~￾ￔﾛﾉQﾽ@￬=#￣￺Sﾏ1￁n8﾿ﾟￊ9￞ﾚﾔﾫﾞﾃ￳qvￖDﾜ￳#`￰￈ﾲ￿ﾺ￵bMﾷe`ﾞ￥$t9ﾡﾷyﾍￜz￈￡Rﾄ7ﾰ￑ﾯ@￘￹f￻ﾍ]Wﾛ￣Y3.U ﾻfﾤﾳ8￢￺ﾡrﾰￄ<￥ￄ￯ﾙￎ",
+      "pronunciation": "￁ﾆￗ�ﾷﾴﾯ￰ﾞﾭￔ￭ﾣb<￪￣T￤Tﾴ^\\￴T￮￡N{ﾜ￀ￔ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -14980,6 +15460,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "2d05e048-b5e6-428d-ad3a-915cd841f136",
+      "chakma_script": "￢￢￯ﾻ￦cﾽﾏ￪ﾋￕ?ﾱ￙ﾢￆﾘ;￩ﾇﾉￎ:=.￷￸~.￤ﾸￇ#￵ﾨ𑄛;ﾓ𑄎ￗ￝￦￪￶﾿^ﾊﾅ￟ﾲﾀﾋ￼￪xￏ￟ￆﾻￜ￟ﾉￚ￮ﾗ￩ﾖﾦ𑄟ﾯqﾯ￟$￭ﾹﾝￇ𑄋&ﾺ𑄉ﾚﾊ*ﾲﾒￅ_ￒ￻ￂ￴cﾢﾺ￉7@ﾁﾜ𑄚: 𑄠ﾞ𑄟.𑄚ﾜx￵ￊq𑄇𑄴𑄖x[￦ﾣﾲￂ𑄝z;𑄝ﾭﾈ}ﾊ2𑄤ﾍ𑄦￩𑄝𑄴𑄝￯𑄉ￋ[ﾅﾆￋﾬ￤~~ﾾ￀ﾖ+5ﾽxﾪ𑄛ﾬￌ ﾙﾹￎ𑄉ﾬ7cￆ�ﾪ￐￫￾ﾝv￻~>ﾜ𑄟ﾹﾙ#ﾐ𑄉𑄟𑄴𑄚qￅ𑄥ﾈ￰￦8ￜﾈ_'ﾼ𑄠cￂﾆz￳￦+￱$ﾲﾂￚ.*ﾚﾼﾮ𑄎￴z￘ﾓ𑄛𑄴𑄉~.]￺",
+      "romanized": "￢￢￯ﾻ￦cﾽﾏ￪ﾋￕ?ﾱ￙ﾢￆﾘ;￩ﾇﾉￎ:=.￷￸~.￤ﾸￇ#￵ﾨp;ﾓJￗ￝￦￪￶﾿^ﾊﾅ￟ﾲﾀﾋ￼￪xￏ￟ￆﾻￜ￟ﾉￚ￮ﾗ￩ﾖﾦmﾯqﾯ￟$￭ﾹﾝￇO&ﾺEﾚﾊ*ﾲﾒￅ_ￒ￻ￂ￴Cﾢﾺ￉7@ﾁﾜn: Yﾞm.NﾜX￵ￊqktX[￦ﾣﾲￂBz;Bﾭﾈ}ﾊ2wﾍh￩bB￯eￋ[ﾅﾆￋﾬ￤~~ﾾ￀ﾖ+5ﾽXﾪPﾬￌ ﾙﾹￎGﾬ7Cￆ�ﾪ￐￫￾ﾝv￻~>ﾜmﾹﾙ#ﾐEmnQￅSﾈ￰￦8ￜﾈ_'ﾼYcￂﾆz￳￦+￱$ﾲﾂￚ.*ﾚﾼﾮj￴Z￘ﾓPG~.]￺",
+      "english_meaning": "ￏ-ￗ￈ￗH￧ﾝtJ￱ﾘￚ73v￟ﾦﾨvﾃﾢy￷￐ ﾃￕￌMzￓ+ﾨHﾅￚ￰/ﾡﾀￍﾧ￲M￡ﾂ￥￲ﾵﾎ￲�￉ﾢ￳fW;$.fￔRR}￨Dￌﾯﾌ,wﾁﾝﾏ￡6￠t￪V;ﾎﾖﾖ￘y￟{Caￖbﾤj?￬￭}v#Bￓ￈￰=￝gﾏ￈3ﾖﾶw n￡￳ﾼ ﾂ￘fﾓﾆﾟﾭ\tﾣ﾿5^ￄwﾕ￑ﾻ\\ﾸ1ﾹﾁ_￞A!=ﾾV~￶ﾼn￨ﾈ￰￟\\MﾢﾻVￂ￤ﾘ￫￴u!ﾎt*",
+      "pronunciation": "￢￢￯ﾻ￦cﾽﾏ￪ﾋￕ?ﾱ￙ﾢￆﾘ;￩ﾇﾉￎ:=.￷￸~.￤ﾸￇ#￵ﾨp;ﾓJￗ￝￦￪￶﾿^ﾊﾅ￟ﾲﾀﾋ￼￪xￏ￟ￆﾻￜ￟ﾉￚ￮ﾗ￩ﾖﾦmﾯqﾯ￟$￭ﾹﾝￇO&ﾺEﾚﾊ*ﾲﾒￅ_ￒ￻ￂ￴Cﾢﾺ￉7@ﾁﾜn: Yﾞm.NﾜX￵ￊqktX[￦ﾣﾲￂBz;Bﾭﾈ}ﾊ2wﾍh￩bB￯eￋ[ﾅﾆￋﾬ￤~~ﾾ￀ﾖ+5ﾽXﾪPﾬￌ ﾙﾹￎGﾬ7Cￆ�ﾪ￐￫￾ﾝv￻~>ﾜmﾹﾙ#ﾐEmnQￅSﾈ￰￦8ￜﾈ_'ﾼYcￂﾆz￳￦+￱$ﾲﾂￚ.*ﾚﾼﾮj￴Z￘ﾓPG~.]￺",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "2ca77649-712a-4cf3-90ef-409c9d502f10",
       "chakma_script": "কে তোমাকে বলছে?",
       "romanized": "কে তোমাকে বলছে?",
@@ -15188,6 +15684,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "2921b143-4f87-4d82-bc5f-8d054d6198a0",
+      "chakma_script": "xￇﾥx~𑄉𑄴𑄟𑄅ﾍﾈ￦44￝𑄛𑄴𑄣ￕ*\\ￔﾌ￐￰￤ﾦ,ￚc￑ﾠﾃﾌ￺ﾢ>ﾮ￉ﾅ𑄘ￂﾀ?{",
+      "romanized": "Xￇﾥx~GmIﾍﾈ￦44￝PLￕ*\\ￔﾌ￐￰￤ﾦ,ￚc￑ﾠﾃﾌ￺ﾢ>ﾮ￉ﾅDￂﾀ?{",
+      "english_meaning": "@B￮ﾙSￃHLWﾍ￟ￔ;ﾉ/ￚ￧ﾛ￧￑￻*ﾖￇﾜ j ￌ_ﾋ;ﾁ￝1￶aￔﾯ3ﾺ￉ￖﾏﾼ￱ﾖMﾣￅﾢ﾿hﾉ￼ﾩfrcﾴ*ￏￚSM,￰ￇﾏﾡￒ@b ",
+      "pronunciation": "Xￇﾥx~GmIﾍﾈ￦44￝PLￕ*\\ￔﾌ￐￰￤ﾦ,ￚc￑ﾠﾃﾌ￺ﾢ>ﾮ￉ﾅDￂﾀ?{",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "2915b7eb-3457-4ad3-be70-082dc3142ef6",
       "chakma_script": "সে বাড়ি যায়।",
       "romanized": "সে বাড়ি যায়।",
@@ -15225,6 +15737,22 @@
       "romanized": "সে পড়তে বসেছে",
       "english_meaning": "𑄖𑄬 𑄛𑄧𑄢𑄖𑄴 𑄝𑄮𑄌𑄴𑄌𑄬",
       "pronunciation": "Pronoun Verb Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "28d76e80-6d72-4f8f-ba3f-09876a69acd0",
+      "chakma_script": ",\"ﾉ{ﾛ/;￲ﾋￓￂ￧﾿ￅ𑄎ﾊ𑄛ﾢ+!/￯z￮￫fￒ𑄇ﾋz\"6 ﾩ@ﾜ𑄎𑄴𑄥ﾬ￲ﾫ𑄦￢ﾤ￱ￜq4ﾣ￤ￌﾸ𑄣𑄉𑄦𑄃ﾟ￤ﾟ1￙𑄣𑄴𑄚￾𑄉𑄴𑄣￶￳4𑄖ﾬ𑄘￼0\\7ￋￛ𑄦ﾜ𑄦￨ﾶ𑄎￱ￃﾸ￙c￿￸￨￧ￊ4𑄋𑄛ﾃq￴￩^𑄤￰ﾂﾏﾒ𑄢ﾾ75v0ﾸﾆ￩ﾓ￰5𑄟￯ﾩ^ￏqﾓ_𑄥𑄴𑄉ﾚ\"ﾚￆﾧ𑄚ﾵ𑄝ￕ￣`ￚ`￑ﾊ𑄛￙𑄇,ￂ￤&ﾡￍ￱𑄦ﾜ[ﾲ\tﾦￄﾃ𑄇+3𑄋ﾡ𑄎￢ￒ𑄝𑄴𑄉￞ﾹￇ￱x8𑄇&5 𑄟 ￬ￕﾶ𑄉'𑄎ﾾﾣﾁￗ𑄦 𑄝￫ﾏ/\\ﾒￊ￹ﾻ￼￻ﾽﾩﾘﾹﾇﾺ￘￥ﾴ=𑄘x￁x￝ﾄﾛ𑄘𑄴𑄤ﾖ￥ￂ￦",
+      "romanized": ",\"ﾉ{ﾛ/;￲ﾋￓￂ￧﾿ￅJﾊpﾢ+!/￯z￮￫fￒKﾋZ\"6 ﾩ@ﾜjSﾬ￲ﾫh￢ﾤ￱ￜq4ﾣ￤ￌﾸlehaﾟ￤ﾟ1￙ln￾gL￶￳4tﾬd￼0\\7ￋￛHﾜH￨ﾶJ￱ￃﾸ￙c￿￸￨￧ￊ4oPﾃQ￴￩^W￰ﾂﾏﾒrﾾ75v0ﾸﾆ￩ﾓ￰5m￯ﾩ^ￏQﾓ_Sgﾚ\"ﾚￆﾧNﾵBￕ￣`ￚ`￑ﾊP￙k,ￂ￤&ﾡￍ￱hﾜ[ﾲ\tﾦￄﾃk+3Oﾡj￢ￒBg￞ﾹￇ￱X8K&5 m ￬ￕﾶg'Jﾾﾣﾁￗh B￫ﾏ/\\ﾒￊ￹ﾻ￼￻ﾽﾩﾘﾹﾇﾺ￘￥ﾴ=dX￁x￝ﾄﾛdWﾖ￥ￂ￦",
+      "english_meaning": "ﾸ_ﾰ￷B￭￙￘FﾘHﾕￒﾣ/￪￐Bﾖ￷￝ ﾭﾍgￜﾡﾔ\\B,ￌFￜﾉﾒﾲﾜﾷﾍ￥ￗW￱￈zﾲUM-eﾏrￒﾆy￭k￯.:&N ﾓﾧ5pￍﾳ￐$ￆ￘9yq_﾿Eﾞ￴;ﾗ/r￩Hﾂ￻k{J",
+      "pronunciation": ",\"ﾉ{ﾛ/;￲ﾋￓￂ￧﾿ￅJﾊpﾢ+!/￯z￮￫fￒKﾋZ\"6 ﾩ@ﾜjSﾬ￲ﾫh￢ﾤ￱ￜq4ﾣ￤ￌﾸlehaﾟ￤ﾟ1￙ln￾gL￶￳4tﾬd￼0\\7ￋￛHﾜH￨ﾶJ￱ￃﾸ￙c￿￸￨￧ￊ4oPﾃQ￴￩^W￰ﾂﾏﾒrﾾ75v0ﾸﾆ￩ﾓ￰5m￯ﾩ^ￏQﾓ_Sgﾚ\"ﾚￆﾧNﾵBￕ￣`ￚ`￑ﾊP￙k,ￂ￤&ﾡￍ￱hﾜ[ﾲ\tﾦￄﾃk+3Oﾡj￢ￒBg￞ﾹￇ￱X8K&5 m ￬ￕﾶg'Jﾾﾣﾁￗh B￫ﾏ/\\ﾒￊ￹ﾻ￼￻ﾽﾩﾘﾹﾇﾺ￘￥ﾴ=dX￁x￝ﾄﾛdWﾖ￥ￂ￦",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -15609,6 +16137,22 @@
       "romanized": "তোমাকে এই টাকাগুলো কে দিয়েছে?",
       "english_meaning": "𑄖𑄧𑄢𑄬 𑄃𑄬𑄭 𑄑𑄬𑄋𑄉𑄪𑄚𑄴 𑄇𑄧𑄚𑄴𑄳𑄦 𑄘𑄧𑅅𑄚𑄴𑅃",
       "pronunciation": "Pronoun Pronoun Noun Interrogative Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "2407096d-764c-4035-8f28-802586bbc5c0",
+      "chakma_script": "ﾃ￢ﾯ𑄋￁ﾓﾵ￟￳ﾭ￾￙ﾰﾠ{ￇﾾ￫𑄟𑄊 ﾸ^5\\ﾝv￢ﾐﾱ0￑ﾑ `￥ﾖﾈ",
+      "romanized": "ﾃ￢ﾯO￁ﾓﾵ￟￳ﾭ￾￙ﾰﾠ{ￇﾾ￫moi ﾸ^5\\ﾝv￢ﾐﾱ0￑ﾑ `￥ﾖﾈ",
+      "english_meaning": "ﾙ￳ￏￛ@N#]zﾗﾚ\"ﾪ^ￓﾩﾈﾖﾎ￯#2rﾒ￬￡}ﾼ*ﾂck}-ﾨp6Hw",
+      "pronunciation": "ﾃ￢ﾯO￁ﾓﾵ￟￳ﾭ￾￙ﾰﾠ{ￇﾾ￫moi ﾸ^5\\ﾝv￢ﾐﾱ0￑ﾑ `￥ﾖﾈ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -16420,6 +16964,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "1aff32d7-58bf-4cae-8633-555194ab6581",
+      "chakma_script": "ￚ￙ﾹ￺ￎ%𑄅ﾒￒ",
+      "romanized": "ￚ￙ﾹ￺ￎ%iﾒￒ",
+      "english_meaning": "]ￕJmￅ￷ﾠ7yﾧﾪHﾉﾎￄ: ￡0￺ￏ",
+      "pronunciation": "ￚ￙ﾹ￺ￎ%iﾒￒ",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "1af1b9dd-ac3b-4ff1-b908-8ae8cc57c972",
       "chakma_script": "সে তোমাকে বকা দিল কেন?",
       "romanized": "সে তোমাকে বকা দিল কেন?",
@@ -16441,6 +17001,22 @@
       "romanized": "তারা তোমাকে মেরেছে নাকি?",
       "english_meaning": "𑄖𑄢𑄳𑄦 𑄖𑄧𑄢𑄬 𑄟𑄢𑄧𑄚𑄴 𑄚𑅃",
       "pronunciation": "Pronoun Pronoun Verb InterrogativeNumeric",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "1a5b7851-881c-4ef3-8d9d-d18dbad08b73",
+      "chakma_script": "<ￄﾨ𑄉+𑄠￟ﾂ￬𑄉ￌￓ\"ﾏﾯﾍvﾐﾀￄ\"#ﾭﾪￂ~ﾢ￭𑄦ﾶ𑄟 ~𑄠",
+      "romanized": "<ￄﾨg+Y￟ﾂ￬Gￌￓ\"ﾏﾯﾍvﾐﾀￄ\"#ﾭﾪￂ~ﾢ￭HﾶM ~y",
+      "english_meaning": "ﾣ￼Jﾚﾸ￳ￜzﾇe￉￬E￧<￯ﾊﾵￕ6ￕﾬﾾ",
+      "pronunciation": "<ￄﾨg+Y￟ﾂ￬Gￌￓ\"ﾏﾯﾍvﾐﾀￄ\"#ﾭﾪￂ~ﾢ￭HﾶM ~y",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -16681,6 +17257,22 @@
       "romanized": "সত্তেও বুঝালে",
       "english_meaning": "𑄥𑄧𑄖𑄴𑄬𑄃𑄮 𑄝𑄪𑄏𑄬𑄦𑄬",
       "pronunciation": "Adverb Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "179b5783-bbe5-443a-ae6b-32013ab87fe5",
+      "chakma_script": "&𑄛ﾖ𑄋4=ﾁf.𑄝ￃ￬ﾀ𑄛@ﾘﾄ𑄉ﾣ\tￇ￪𑄤ﾃ￡%𑄇4𑄉￧�,1￱￐q𑄇￁ￗﾶ𑄢cﾞ8ￅz￑𑄤xﾙﾟ𑄅𑄦ﾀ8ﾜ<￼𑄃ﾒﾦﾄￊ￼￐qﾡ~v\"ￃﾳ𑄉ﾐ￫ﾾﾔ𑄝]c￞}ￅ}ﾠ𑄋￬￠𑄢￁ﾎￓﾸ𑄢>$𑄦ﾱ?+-ﾳ>￘ￕzￖￎq#ￔ",
+      "romanized": "&pﾖo4=ﾁF.Bￃ￬ﾀp@ﾘﾄeﾣ\tￇ￪wﾃ￡%u4g￧�,1￱￐QU￁ￗﾶRcﾞ8ￅz￑wxﾙﾟIHﾀ8ﾜ<￼Aﾒﾦﾄￊ￼￐qﾡ~v\"ￃﾳGﾐ￫ﾾﾔB]C￞}ￅ}ﾠO￬￠R￁ﾎￓﾸr>$Hﾱ?+-ﾳ>￘ￕzￖￎQ#ￔ",
+      "english_meaning": "￤￫wmￂgﾄKﾛMXﾂ￡&￝ￄNWﾘLCￇ,ﾫﾂNﾌﾞￇ￐W￥\\S￯￙￶TￒAￅiￛﾓ ﾔﾇlKﾷz$tk￪=",
+      "pronunciation": "&pﾖo4=ﾁF.Bￃ￬ﾀp@ﾘﾄeﾣ\tￇ￪wﾃ￡%u4g￧�,1￱￐QU￁ￗﾶRcﾞ8ￅz￑wxﾙﾟIHﾀ8ﾜ<￼Aﾒﾦﾄￊ￼￐qﾡ~v\"ￃﾳGﾐ￫ﾾﾔB]C￞}ￅ}ﾠO￬￠R￁ﾎￓﾸr>$Hﾱ?+-ﾳ>￘ￕzￖￎQ#ￔ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -17305,6 +17897,22 @@
       "romanized": "নদীর উপর একটি সেতু আছে।",
       "english_meaning": "𑄍𑄧𑄢𑄚𑄧𑄢𑄴 𑄃𑄬𑄇𑄪𑄦𑄴-𑄃𑄮𑄇𑄪𑄦𑄴 𑄃𑄨𑄇𑄴𑄮𑄢𑄬𑄉 𑄃𑄉𑄬",
       "pronunciation": "Noun Preposition Numeric  Noun Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "0e1020ad-e5c6-4e67-a51f-f558d5a53955",
+      "chakma_script": "ￇ￳ﾇ𑄇ﾡ𑄋𑄉￫7￧$𑄤￭ﾔ$𑄤ﾤﾉﾧ>ﾦ",
+      "romanized": "ￇ￳ﾇUﾡOg￫7￧$w￭ﾔ$Wﾤﾉﾧ>ﾦ",
+      "english_meaning": "￈W]Iﾶ.￪KUy4￴￿ￆ?Lﾫ￳ￋﾊs?￶ﾽﾐﾀ￠￹\tTﾩﾖￇﾘﾣ2ﾉdQQDﾖ9ﾖ￑￿cﾲￅJaￒ ￱EￃTJTﾜsￒﾠKￂzG Cﾾﾺￋ￟MS^ﾻ72*ﾘ￈￷4￶nﾭ8",
+      "pronunciation": "ￇ￳ﾇUﾡOg￫7￧$w￭ﾔ$Wﾤﾉﾧ>ﾦ",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
@@ -18020,6 +18628,22 @@
       "created_at": "2026-06-04"
     },
     {
+      "id": "06ddbd29-19df-4df5-8407-58b45035a854",
+      "chakma_script": "𑄢ﾧ@ￄﾚ￑𑄇￹ￌﾱￕ￲ￛﾜ𑄠]𑄝ﾈ𑄎ﾄ￡`ￔ𑄟ﾔ￺�ﾇￍ-}c~ﾃ￾f𑄇￤$ﾣ8z𑄋ﾩﾀﾍﾺ𑄛ﾸ𑄥ﾫﾗ,/vﾲￍ￼￘ﾂﾟ￶^vﾟ𑄅ﾫ￑ￎ",
+      "romanized": "rﾧ@ￄﾚ￑U￹ￌﾱￕ￲ￛﾜy]Bﾈjﾄ￡`ￔmﾔ￺�ﾇￍ-}C~ﾃ￾fK￤$ﾣ8zoﾩﾀﾍﾺPﾸsﾫﾗ,/Vﾲￍ￼￘ﾂﾟ￶^vﾟiﾫ￑ￎ",
+      "english_meaning": "uTﾀ￘i hﾞbb X￦￱?ﾗE￶ￓ~ﾥ￟@￵EnOf *Bbￕﾂﾘ/ﾗSﾴ`;PﾊIﾔﾒ",
+      "pronunciation": "rﾧ@ￄﾚ￑U￹ￌﾱￕ￲ￛﾜy]Bﾈjﾄ￡`ￔmﾔ￺�ﾇￍ-}C~ﾃ￾fK￤$ﾣ8zoﾩﾀﾍﾺPﾸsﾫﾗ,/Vﾲￍ￼￘ﾂﾟ￶^vﾟiﾫ￑ￎ",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
       "id": "06937963-eb8f-4f10-a55f-a429eadd6780",
       "chakma_script": "তাড়াতাড়ি এখানে এসো",
       "romanized": "তাড়াতাড়ি এখানে এসো",
@@ -18201,6 +18825,22 @@
       "romanized": "তুমি কিবল?",
       "english_meaning": "𑄖𑄪𑄭 𑄇𑄨 𑄇𑄧𑄥𑄴𑅃",
       "pronunciation": "Pronoun Verb",
+      "grammar_type": "noun",
+      "helping_verbs": [],
+      "example": {
+        "chakma": "",
+        "roman": "",
+        "english": ""
+      },
+      "added_by": "python_extractor",
+      "created_at": "2026-06-04"
+    },
+    {
+      "id": "04820226-ecc2-4ace-a3f4-dcadd2941391",
+      "chakma_script": ";𑄘 𑄛𑄴𑄚𑄴𑄝ﾽ𑄣ￅﾕￇ�ￗ/8ￜￌ𑄖ﾅﾙﾺ𑄚#:ﾁﾕ0ﾋc￡￝\t￾v 4ﾫvﾞ*`",
+      "romanized": ";D PNBﾽlￅﾕￇ�ￗ/8ￜￌtﾅﾙﾺn#:ﾁﾕ0ﾋc￡￝\t￾v 4ﾫVﾞ*`",
+      "english_meaning": "]Pﾴ￮ZﾛOﾆﾵ￶ﾇﾅￅSPL￲ﾀﾉ￪ﾁￖ￁3￰iBjﾢjﾹ￁ﾊ￪ￄED<ﾐ￀Mﾘ￶=ﾚ￡ﾛ￶￿ﾙﾢﾬﾆw ﾕ6ﾳﾛ￳eﾢￓ~Fﾑ￀ￕr dﾄQﾉ\"ﾑ=Iﾤ￧￱￵ﾏﾷ￳;ﾽ#￤ﾙﾐﾲ￧Dﾹﾎﾣￃr￬ﾵnﾛ￐Ljﾩﾋp￸ﾍ￑￧￯￷~ﾪﾀkￂ￺￿hoﾌ0tￆLﾚﾐZ￟ﾝﾜF￸8﾿ￅￌﾑ￸72jrqￎﾋRﾼﾥ￝￩ￄ￫y￴￺ﾣV",
+      "pronunciation": ";D PNBﾽlￅﾕￇ�ￗ/8ￜￌtﾅﾙﾺn#:ﾁﾕ0ﾋc￡￝\t￾v 4ﾫVﾞ*`",
       "grammar_type": "noun",
       "helping_verbs": [],
       "example": {
